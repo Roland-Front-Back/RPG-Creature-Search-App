@@ -1,7 +1,7 @@
 <div id="top">
 
 <!-- HEADER STYLE: COMPACT -->
-<img src="assets/img/game-boy.png" width="15%" align="left">
+<img src="assets/img/game-boy.png" width="30%" align="left">
 
 # RPG-CREATURE-SEARCH-APP
 
@@ -151,7 +151,7 @@ You're welcome to contribute!
 
 ## 📜 License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
 
 ✨ Acknowledgments
 
@@ -159,7 +159,7 @@ This project is licensed under the MIT License.
 
 - <a href="https://fonts.google.com/specimen/Silkscreen">Google Fonts</a> for the retro font
 
-  Inspired by classic handheld RPG devices
+- Inspired by classic handheld RPG devices
 
 <div align="right"><a href="#top">BACK TO TOP</a>
 </div>
