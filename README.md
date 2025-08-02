@@ -111,7 +111,7 @@ open index.html
 
 - View the creature's stats and type info in the display area.
 
-### Testing
+### 🌠 Testing
 
 This project does not include formal test suites. You can manually test by:
 
